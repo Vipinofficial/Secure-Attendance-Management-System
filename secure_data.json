@@ -1,0 +1,1 @@
+{"institution": "", "students": ["vishal", "vipin"], "subjects": ["ds", "cs", "oops", "sql"], "timetable": {"Monday": ["ds", "oops", "cs"], "Thursday": ["ds", "oops", "cs"], "Friday": ["ds", "oops", "cs"]}, "attendance": {"2024-11-15": {"ds": {"vishal": "Present", "vipin": "Present"}}, "2024-11-14": {"ds": {}}}, "holidays": []}
